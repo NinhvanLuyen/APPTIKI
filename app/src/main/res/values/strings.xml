@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">App</string>
+    <string name="please_wait">Please wait</string>
+    <string name="OK">OK</string>
+    <string name="tag">tag</string>
+    <string name="user_detail">User Detail</string>
+    <string name="no_data">No Data</string>
+    <string name="try_again">try again</string>
+    <string name="tu_khoa_hot">Từ khoá hot</string>
+</resources>
